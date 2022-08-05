@@ -25,6 +25,6 @@
 
 ### Sesion 5
 
-#### Deck: https://weazurematerial.blob.core.windows.net/az900/Weazure-AZ-900T0X-ES-PowerPoint_05.pptx 
-#### Deck: https://weazurematerial.blob.core.windows.net/az900/Weazure-AZ-900T0X-ES-PowerPoint_06.pptx 
+#### Deck: https://weazurematerial.blob.core.windows.net/az900/Weazure - AZ-900T0X-ES-PowerPoint_05.pptx
+#### Deck: https://weazurematerial.blob.core.windows.net/az900/Weazure - AZ-900T0X-ES-PowerPoint_06.pptx
 
